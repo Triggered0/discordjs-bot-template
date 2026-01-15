@@ -1,0 +1,16 @@
+{
+  "name": "discordjs-v15-bot-template",
+  "version": "1.0.0",
+  "description": "A Discord.js v15 bot template with command, event, and interaction handlers.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "latest",
+    "dotenv": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
