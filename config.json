@@ -1,0 +1,9 @@
+{
+    "owners": [
+        "USER_ID_1",
+        "USER_ID_2",
+        "USER_ID_3"
+    ],
+    "clientId": "CLIENT_ID",
+    "guildId": "GUILD_ID"
+}

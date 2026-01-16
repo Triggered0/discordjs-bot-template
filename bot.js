@@ -15,6 +15,7 @@ const client = new Client({
     },
 });
 
+client.data = require('./config.json');
 client.commands = new Collection();
 client.slashCommands = new Collection();
 client.events = new Collection();
@@ -23,12 +24,6 @@ client.modals = new Collection();
 client.contextMenus = new Collection();
 client.autocompletes = new Collection();
 client.selectMenus = new Collection();
-
-client.data = {
-    owners: ['609101526597632051'],
-    clientId: "CLIENT_ID",
-    guildId: "GUILD_ID",
-};
 client.functions = {
     errorHandler: require('./handlers/errorHandler')
 };
