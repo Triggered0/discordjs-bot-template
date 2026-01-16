@@ -24,20 +24,24 @@ A professional, modular, and easy-to-use bot template developed by **Triggered0*
 ## 📦 Installation
 
 1. **Clone the repository:**
+
 ```bash
 git clone https://github.com/Triggered0/discordjs-bot-template.git
 cd discordjs-bot-template
 ```
+
 2. **Install dependencies:**
+
 ```bash
 npm install
 ```
+
 3. **Configure Environment:**
-Rename `.env.example` to `.env` and fill in your credentials:
+   Rename `.env.example` to `.env` and fill in your credentials:
+
 ```env
 TOKEN=YOUR_BOT_TOKEN
 ```
-
 
 ## 🚀 Getting Started
 
