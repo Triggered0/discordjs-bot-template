@@ -47,13 +47,6 @@ To start the bot in production mode:
 node bot.js
 ```
 
-If you have `nodemon` installed, you can use it for development:
-
-```bash
-npm run dev
-
-```
-
 ## 📁 Project Structure
 
 ```text
