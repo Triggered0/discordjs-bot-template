@@ -69,7 +69,3 @@ node bot.js
 ## 🤝 Contributing
 
 This is a template project. Feel free to open an **Issue** for bugs or submit a **Pull Request** for new features.
-
-## 📜 License
-
-This project is licensed under the [MIT](https://www.google.com/search?q=LICENSE) License.
